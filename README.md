@@ -6,4 +6,4 @@
 
 Check out our code [here](https://github.com/SubZeroRobotics/SubZeroUltimateGoal). if you want to take a look!
 
-[![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jarnachao09)](https://github.com/anuraghazra/github-readme-stats)
+[![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=niharkod)](https://github.com/anuraghazra/github-readme-stats)
