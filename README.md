@@ -4,7 +4,7 @@
 
 ### I mainly program in Java. Most of my time goes to my robotics team (SubZero 18275)
 
-Check out our code [here](https://github.com/SubZeroRobotics/SubZeroUltimateGoal). if you want to take a look!
+Check out our code **[here](https://github.com/SubZeroRobotics/SubZeroUltimateGoal).** if you want to take a look!
 
 #### Interests : Robotics, ML, Linux/Unix, Webdev
 
