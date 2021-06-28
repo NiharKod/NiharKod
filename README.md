@@ -1,6 +1,6 @@
 # Hey, I'm Nihar 👋
 
-## I'm a Sophomore at William Mason Highschool
+## I'm a Sophomore in Highschool
 
 ### I mainly program in Java. Most of my time goes to my robotics team (SubZero 18275)
 
