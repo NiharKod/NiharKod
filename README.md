@@ -2,9 +2,9 @@
 
 ## I'm a Sophomore in Highschool
 
-### I mainly program in Java. Most of my time goes to my robotics team (SubZero 18275)
+Check out my robotics team code: **[here](https://github.com/SubZeroRobotics/SubZeroUltimateGoal).** 
 
-Check out our code **[here](https://github.com/SubZeroRobotics/SubZeroUltimateGoal).** if you want to take a look!
+Check out my dotfiles : **[here](https://github.com/NiharKod/dots).**
 
 #### Interests : Robotics, ML, Linux/Unix, Webdev
 
