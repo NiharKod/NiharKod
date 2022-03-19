@@ -1,6 +1,6 @@
 # Hey, I'm Nihar 👋
 
-## I'm a Sophomore in Highschool
+## I'm a Junior in Highschool
 
 Check out my robotics team code: **[here](https://github.com/SubZeroRobotics/SubZeroUltimateGoal).** 
 
