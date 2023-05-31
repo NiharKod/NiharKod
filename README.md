@@ -1,6 +1,6 @@
 # Hey, I'm Nihar 👋
 
-## I'm a Junior in Highschool
+## I'm a Freshman at Purdue University studying Computer Science (Class of 2027)
 
 Check out my robotics team code: **[here](https://github.com/SubZeroRobotics/SubZeroUltimateGoal).** 
 
