@@ -7,5 +7,5 @@
 - Robotics and Controls
 - Security
 
-Check out my dotfiles : **[here](https://github.com/NiharKod/dots).**
+Check out my linux dotfiles : **[here](https://github.com/NiharKod/dots).**
 
