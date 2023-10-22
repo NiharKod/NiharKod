@@ -1,11 +1,11 @@
 # Hey, I'm Nihar 👋
 
-## I'm a Freshman at Purdue University studying Computer Science (Class of 2027)
+## I'm a freshman at Purdue studying Computer Science
 
-Check out my robotics team code: **[here](https://github.com/SubZeroRobotics/SubZeroUltimateGoal).** 
+### I'm interested in
+- Machine Learning
+- Robotics and Controls
+- Security
 
 Check out my dotfiles : **[here](https://github.com/NiharKod/dots).**
 
-#### Interests : Robotics, ML, Linux/Unix, Webdev
-
-[![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=niharkod)](https://github.com/anuraghazra/github-readme-stats)
