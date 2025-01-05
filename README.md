@@ -3,7 +3,8 @@
 ## I'm a Sophomore at Purdue studying Computer Science and Statistics
 
 ### I'm interested in
-- Robotics
+- Motion Planning & Robotics
 - Machine Learning
 - Embedded Systems
 
+Checkout my website at [ https://www.niharkod.github.io](https://niharkod.github.io/)
