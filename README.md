@@ -1,6 +1,6 @@
 # Hey, I'm Nihar 👋
 
-## I'm a Sophomore at Purdue studying Computer Science and Statistics
+## I'm a Sophomore at Purdue studying Computer Science minoring Statistics
 
 ### I'm interested in
 - Motion Planning & Robotics
