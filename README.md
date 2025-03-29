@@ -4,7 +4,7 @@
 
 ### I'm interested in
 - Motion Planning & Robotics
-- Machine Learning
-- Embedded Systems
+- Hardware Acceleration
+- Machine Learning/Infrastructure
 
 Checkout my website at [ https://www.niharkod.github.io](https://niharkod.github.io/)
