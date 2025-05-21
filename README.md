@@ -1,10 +1,8 @@
-# Hey, I'm Nihar 👋
-
-## I'm a Sophomore at Purdue studying Computer Science minoring Statistics
-
+# I'm Nihar 
+## I'm a Sophomore at Purdue studying Computer Science
 ### I'm interested in
-- Motion Planning & Robotics
-- Hardware Acceleration
-- Machine Learning/Infrastructure
+- Machine Learning Systems & High Peformance Computing
+- Hardware acceleration for robotics 
+- Compilers
 
 Checkout my website at [ https://www.niharkod.github.io](https://niharkod.github.io/)
