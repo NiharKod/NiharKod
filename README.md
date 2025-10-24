@@ -1,7 +1,7 @@
 # I'm Nihar 
-## I'm a Sophomore at Purdue studying Computer Science
+## I'm a Junior at Purdue studying Computer Science
 ### I'm interested in
-- Machine Learning Systems & High Peformance Computing
+- High performance computing, ML Systems
 - Hardware acceleration for robotics 
 - Compilers
 
